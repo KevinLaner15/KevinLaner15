@@ -1,4 +1,4 @@
-# Hi, I'm Kevin Lane 👋
+# Hi, I'm Kevin Lane
 
 3rd-year Electrical Engineering student at **Queen's University** (BASc, graduating 2028). I like building things that sit between hardware and software including PCBs, embedded systems, and digital design.
 
